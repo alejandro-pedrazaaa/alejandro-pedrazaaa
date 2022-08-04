@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/alejandro-pedrazaaa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">hey there, I'm Alejandro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
  -->
@@ -9,10 +9,10 @@
 
 I am a full stack developer apprentice.
 
-- 🔭 I a  oftware Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 🔭 I have been training to become a software developer for about six months.
+- 🌱 Exploring new programming languages.
+- ⚡ I spend my day studying, practicing, and honing my skills as a software developer.
+- 📫 You can conctact me in my &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-alejandro-pedrazaaaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pedrazaaa/)
 
 ---
 

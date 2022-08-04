@@ -4,7 +4,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/alejandro-pedrazaaa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="center">Hey there, I'm Alejandro!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"></h1>
+<h1 align="center">Hey there, I'm Alejandro!</h1>
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"  /></p>
  -->

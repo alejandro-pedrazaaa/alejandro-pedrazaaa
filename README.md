@@ -1,13 +1,7 @@
-
 <p align="center"><img src="https://media.giphy.com/media/xaU9pn4NS2g9Btvmtl/giphy.gif" width="500" height="270"  /></p>
-
-<p align="center"><a href="https://www.linkedin.com/in/alejandro-pedrazaaa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 
 <h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
 
-<!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"  /></p>
- -->
 ### :man_technologist: &nbsp; About Me :
 
 I am a full stack developer apprentice.
@@ -15,6 +9,13 @@ I am a full stack developer apprentice.
 - 💻 I have been training to become a software developer for about six months.
 - 🗺️ Exploring and expanding to master new programming languages.
 - 📝 I spend my day studying, practicing, and honing my skills as a software developer.
+
+---
+
+### 📫 Contact me :
+
+<p align="center"><a href="https://www.linkedin.com/in/alejandro-pedrazaaa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 ---
 

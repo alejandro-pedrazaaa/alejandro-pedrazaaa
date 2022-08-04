@@ -12,7 +12,7 @@ I am a full stack developer apprentice.
 - 🔭 I have been training to become a software developer for about six months.
 - 🌱 Exploring new programming languages.
 - ⚡ I spend my day studying, practicing, and honing my skills as a software developer.
-- 📫 You can conctact me in my &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-alejandro-pedrazaaaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pedrazaaa/)
+- 📫 You can conctact me in my [LinkedIn](https://www.linkedin.com/in/alejandro-pedrazaaa/).       
 
 ---
 

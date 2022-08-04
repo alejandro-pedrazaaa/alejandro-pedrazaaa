@@ -2,7 +2,7 @@
 
 <h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
 
-### :man_technologist: &nbsp; About Me :
+### :man_technologist: &nbsp;About Me :
 
 I am a full stack developer apprentice.
 

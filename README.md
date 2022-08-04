@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandro-pedrazaaa&theme=radical&hide_border=true)](https://git.io/streak-stats)

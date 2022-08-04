@@ -1,3 +1,6 @@
+
+<p align="center"><img src="https://media.giphy.com/media/xaU9pn4NS2g9Btvmtl/giphy.gif" width="500" height="250"  /></p>
+
 <p align="center"><a href="https://www.linkedin.com/in/alejandro-pedrazaaa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 

@@ -34,8 +34,8 @@ I am a full stack developer apprentice.
 ### 🔥 &nbsp; My Stats :
 
 <div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-pedrazaaa&layout=compact&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" width="350" align="right"/></a>
-<a href="http://github-readme-streak-stats.herokuapp.com?user=alejandro-pedrazaaa&theme=jolly"><img src="http://github-readme-streak-stats.herokuapp.com?user=alejandro-pedrazaaa&theme=jolly" width="600" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-pedrazaaa&layout=compact&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" width="300" align="right"/></a>
+<a href="http://github-readme-streak-stats.herokuapp.com?user=alejandro-pedrazaaa&theme=jolly"><img src="http://github-readme-streak-stats.herokuapp.com?user=alejandro-pedrazaaa&theme=jolly" width="500" /></a>
 </div>
 
 ---

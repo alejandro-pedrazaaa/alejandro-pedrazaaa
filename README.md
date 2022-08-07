@@ -10,8 +10,18 @@
 I am a full stack developer apprentice.
 
 - 💻 I have been training to become a software developer for about seven months.
+- 
 - 🗺️ Learning new programming languages to advance my career.
+- 
 - 📝 I spend my days studying, practicing, and honing my skills as a full stack software developer.
+
+- 🌱 I’m currently learning [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30" ]
+
+- 🤔 I’m looking for help with `creating a C# website on Visual Stidio Code`
+
+- ⚡ Fun fact **I love documentaries and learn new things 🎥**
+
+- 🎶 This is the kind of [music that I'm into](https://open.spotify.com/playlist/7JDqDJew1iaTxBbTsAkAOO)
 
 ---
 

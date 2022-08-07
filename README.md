@@ -2,16 +2,16 @@
 
 <h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
 
+<h3 align="center">💻 Full Stack Software Apprentice 💻</h3>
+
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandro-pedrazaaa" alt="mevaldovi" /></a></p>
 
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a full stack developer apprentice.
+- 💻 I have been training to become a software developer for about seven months
 
-- 💻 I have been training to become a software developer for about seven months.
-
-- 📝 I spend my days studying, practicing, and honing my skills as a full stack software developer.
+- 📝 I spend my days studying, practicing, and honing my skills as a full stack software developer
 
 - 🗺️ I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
 
@@ -20,7 +20,7 @@ I am a full stack developer apprentice.
 
 - ⚡ Fun fact **I love documentaries and learn new things 🎥**
 
-- 🎶 This is the kind of [music that I'm into](https://open.spotify.com/playlist/7JDqDJew1iaTxBbTsAkAOO)
+- 🎶 This is the kind of music I [like](https://open.spotify.com/playlist/7JDqDJew1iaTxBbTsAkAOO)
 
 ---
 

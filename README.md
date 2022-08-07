@@ -10,12 +10,11 @@
 I am a full stack developer apprentice.
 
 - 💻 I have been training to become a software developer for about seven months.
-- 
-- 🗺️ Learning new programming languages to advance my career.
-- 
+
 - 📝 I spend my days studying, practicing, and honing my skills as a full stack software developer.
 
-- 🌱 I’m currently learning [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30" ]
+- 🗺️ I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+
 
 - 🤔 I’m looking for help with `creating a C# website on Visual Stidio Code`
 
@@ -27,7 +26,7 @@ I am a full stack developer apprentice.
 
 ### 📫 Contact me :
 
-<p align="center"><a href="https://www.linkedin.com/in/alejandro-pedrazaaa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<p><a href="https://www.linkedin.com/in/alejandro-pedrazaaa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 ---

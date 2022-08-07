@@ -2,6 +2,9 @@
 
 <h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandro-pedrazaaa" alt="mevaldovi" /></a></p>
+
+
 ### :man_technologist: &nbsp;About Me :
 
 I am a full stack developer apprentice.

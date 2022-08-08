@@ -18,7 +18,7 @@
 
 - 🤔 I’m looking for help with `creating a C# website on Visual Stidio Code`
 
-- ⚡ Fun fact **I love documentaries and learn new things 🎥**
+- ⚡ Fun fact **I love documentaries and learning new things 🎥**
 
 - 🎶 This is the kind of music I [like](https://open.spotify.com/playlist/7JDqDJew1iaTxBbTsAkAOO)
 

@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I love documentaries and learning new things 🎥**
 
-- 🎶 This is the kind of [music I like](https://open.spotify.com/playlist/7JDqDJew1iaTxBbTsAkAOO)
+- 🎶 This is the kind of [music I like](https://open.spotify.com/playlist/2M5IfC5t6BBSZd4UnSIHXI)
 
 ---
 

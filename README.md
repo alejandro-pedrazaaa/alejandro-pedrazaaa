@@ -13,8 +13,7 @@
 
 - 📝 I spend my days studying, practicing, and honing my skills as a full stack software developer
 
-- 🗺️ I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>&nbsp;
-
+- 🗺️ I’m currently learning React.js
 
 - 🤔 I’m looking for help with `practicing technical interviews`
 
